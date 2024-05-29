@@ -1,0 +1,8 @@
+make[1]: Entering directory '/home/sssbuisss/1Lenovo/kernel-4.19-lc/out'
+  GEN     ./Makefile
+scripts/kconfig/conf  --syncconfig Kconfig
+../scripts/kconfig/Makefile:69: recipe for target 'syncconfig' failed
+../Makefile:539: recipe for target 'syncconfig' failed
+/home/sssbuisss/1Lenovo/kernel-4.19-lc/Makefile:648: recipe for target 'include/config/auto.conf.cmd' failed
+make[1]: Leaving directory '/home/sssbuisss/1Lenovo/kernel-4.19-lc/out'
+Makefile:146: recipe for target 'sub-make' failed
